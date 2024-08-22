@@ -37,7 +37,7 @@ const FOOTERNAME = '*Powered by prince*'; //Footer text
 //----------------OWNER NUMBER------------------------------//
 //////////////////////////////////////////////////////////////////
 
-global.owner = process.env.OWNER_NUMBER  || '923168598809' ;  //put your number without +
+global.owner = process.env.OWNER_NUMBER  || '923471728690' ;  //put your number without +
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
@@ -98,7 +98,7 @@ travaSend: process.env.TRAVA_SEND || '25' ,   //BUGS
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' , //button or nonbutton
 //////////////////////////////////////////////////////////
 
-MODERATORS : process.env.MODERATORS === undefined ? "923072380380" : process.env.MODERATORS ,    
+MODERATORS : process.env.MODERATORS === undefined ? "923471728690" : process.env.MODERATORS ,    
 //////////////////////////////////////////////////////////
 
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE, //Maximum size that bot can download a file   
